@@ -7,14 +7,14 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Hemeshwaran-M&label=Profile%20Views&color=70a5fd&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=hemeshwaranitgithib&label=Profile%20Views&color=70a5fd&style=flat-square" alt="Profile Views" />
   <a href="https://linkedin.com/in/m-hemeshwaran-867408290">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:hemeshwaranm@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://github.com/Hemeshwaran-M">
+  <a href="https://github.com/hemeshwaranitgithib">
     <img src="https://img.shields.io/badge/GitHub-171515?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
@@ -92,11 +92,11 @@ print(me.motto())
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/Hemeshwaran-M">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=Hemeshwaran-M&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" alt="GitHub Stats" />
+  <a href="https://github.com/hemeshwaranitgithib">
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=hemeshwaranitgithib&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" alt="GitHub Stats" />
   </a>
-  <a href="https://github.com/Hemeshwaran-M">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hemeshwaran-M&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" alt="Top Languages" />
+  <a href="https://github.com/hemeshwaranitgithib">
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemeshwaranitgithib&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" alt="Top Languages" />
   </a>
 </div>
 
@@ -105,7 +105,7 @@ print(me.motto())
 ## 🔥 Streak Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Hemeshwaran-M&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=hemeshwaranitgithib&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak" />
 </div>
 
 ---
@@ -113,7 +113,7 @@ print(me.motto())
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hemeshwaran-M&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hemeshwaranitgithib&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph" />
 </div>
 
 ---
@@ -121,7 +121,7 @@ print(me.motto())
 ## 🏆 Trophy Wall
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Hemeshwaran-M&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=hemeshwaranitgithib&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -163,8 +163,8 @@ print(me.motto())
 
 | Project | Stack | Highlights |
 |:--------|:------|:-----------|
-| 🤟 [**Sign Language to Text & Audio Converter**](https://github.com/Hemeshwaran-M) | Python · CNN · MediaPipe · OpenCV · TensorFlow · TTS | Real-time assistive AI system converting sign gestures → readable text + audible speech; achieved high-accuracy gesture recognition using CNN classification |
-| 🚌 [**Intercity Demand Forecasting Using ML**](https://github.com/Hemeshwaran-M) | Python · Pandas · LightGBM · XGBoost · CatBoost | Ensemble ML solution to optimize intercity transportation demand; leveraged gradient boosting models for robust time-series forecasting |
+| 🤟 [**Sign Language to Text & Audio Converter**](https://github.com/hemeshwaranitgithib) | Python · CNN · MediaPipe · OpenCV · TensorFlow · TTS | Real-time assistive AI system converting sign gestures → readable text + audible speech; achieved high-accuracy gesture recognition using CNN classification |
+| 🚌 [**Intercity Demand Forecasting Using ML**](https://github.com/hemeshwaranitgithib) | Python · Pandas · LightGBM · XGBoost · CatBoost | Ensemble ML solution to optimize intercity transportation demand; leveraged gradient boosting models for robust time-series forecasting |
 
 </div>
 
@@ -202,3 +202,22 @@ print(me.motto())
 ---
 
 ## 📚 Currently Learning
+---
+
+## 🎨 Beyond Code
+
+- 🏸 **Badminton Player** — College-level & local tournaments; team spirit and discipline
+- 🎬 **Videographer & Photographer** — Event coverage, social media, creative projects
+- ✍️ **Content Creator** — Digital content, concept planning, audience engagement
+- 🗣️ **Languages** — English · Tamil
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
+</p>
+
+<p align="center">
+  <i>"Build AI that bridges the gap between humans and machines."</i><br/>
+  <b>— Hemeshwaran M</b>
+</p>
